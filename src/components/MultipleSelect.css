@@ -1,0 +1,26 @@
+.MuiTypography-body1 {
+  font-size: 12px !important;
+  font-family: "Rubik", sans-serif !important;
+}
+
+.MuiPopover-paper::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+
+.MuiPopover-paper::-webkit-scrollbar-track-piece {
+  background-color: #c2d2e4;
+}
+
+.MuiPopover-paper::-webkit-scrollbar-thumb:vertical {
+  height: 30px;
+  background-color: #0a4c95;
+}
+.MuiSelect-selectMenu {
+  height: 100% !important;
+  display: flex !important;
+  align-items: center;
+}
+.MuiList-padding {
+  padding: 0 !important;
+}
